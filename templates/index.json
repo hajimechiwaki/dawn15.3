@@ -49,6 +49,48 @@
         "show_text_below": false
       }
     },
+    "rich_text_qXqzHy": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6kEQzx": {
+          "type": "heading",
+          "settings": {
+            "heading": "About",
+            "heading_size": "h1"
+          }
+        },
+        "text_NmRYJG": {
+          "type": "text",
+          "settings": {
+            "text": "<p>ブランドに関する情報をお客様と共有します。商品を説明したり、告知をしたり、ストアへのお客様を歓迎したりします。</p>"
+          }
+        },
+        "button_bcwRLC": {
+          "type": "button",
+          "settings": {
+            "button_label": "ボタンのラベル",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_6kEQzx",
+        "text_NmRYJG",
+        "button_bcwRLC"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -80,6 +122,7 @@
   },
   "order": [
     "image_banner",
+    "rich_text_qXqzHy",
     "featured_collection"
   ]
 }
