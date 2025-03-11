@@ -62,14 +62,14 @@
         "text_NmRYJG": {
           "type": "text",
           "settings": {
-            "text": "<p>ブランドに関する情報をお客様と共有します。商品を説明したり、告知をしたり、ストアへのお客様を歓迎したりします。</p>"
+            "text": "<p>JORYU DISTILLERYは、世界中の厳選された素材と日本の卓越した蒸留技術を駆使し、革新的で高品質なスピリッツを提供します。国際的な素材と地元特産品を融合させ、グローバルな視点で新しい価値を生み出します。</p>"
           }
         },
         "button_bcwRLC": {
           "type": "button",
           "settings": {
-            "button_label": "ボタンのラベル",
-            "button_link": "",
+            "button_label": "詳しく見る",
+            "button_link": "shopify://pages/about",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
