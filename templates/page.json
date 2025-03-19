@@ -9,10 +9,61 @@
  */
 {
   "sections": {
+    "image_banner_8dYJ4F": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_fzQAC3": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "画像バナー",
+            "heading_size": "h1"
+          }
+        },
+        "text_HVbhdn": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "テンプレートのバナー画像またはコンテンツに関する詳細をお客様に提供します。",
+            "text_style": "body"
+          }
+        },
+        "buttons_bay96x": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "ボタンのラベル",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "ボタンのラベル",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_fzQAC3",
+        "text_HVbhdn",
+        "buttons_bay96x"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/img01.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
     "main": {
       "type": "main-page",
       "custom_css": [
-        "h2{font-size: 24px;}"
+        "h2 {font-size: 24px;}"
       ],
       "settings": {
         "padding_top": 40,
@@ -21,6 +72,7 @@
     }
   },
   "order": [
+    "image_banner_8dYJ4F",
     "main"
   ]
 }
