@@ -63,8 +63,8 @@
     "main": {
       "type": "main-blog",
       "settings": {
-        "layout": "collage",
-        "show_image": true,
+        "layout": "grid",
+        "show_image": false,
         "image_height": "medium",
         "show_date": true,
         "show_author": false,
