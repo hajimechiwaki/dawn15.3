@@ -1,5 +1,65 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
+    "image_banner_y7zc9h": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_AaEPM4": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "画像バナー",
+            "heading_size": "h1"
+          }
+        },
+        "text_MNyUh7": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "テンプレートのバナー画像またはコンテンツに関する詳細をお客様に提供します。",
+            "text_style": "body"
+          }
+        },
+        "buttons_JTVUmm": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "ボタンのラベル",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "ボタンのラベル",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_AaEPM4",
+        "text_MNyUh7",
+        "buttons_JTVUmm"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/img02.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
     "main": {
       "type": "main-blog",
       "settings": {
@@ -14,6 +74,7 @@
     }
   },
   "order": [
+    "image_banner_y7zc9h",
     "main"
   ]
 }
