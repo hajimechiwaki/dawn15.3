@@ -47,10 +47,10 @@
         "buttons_Mkqe3q"
       ],
       "settings": {
-        "image": "shopify://shop_images/LINE_ALBUM_20250324_250324_56.jpg",
+        "image": "shopify://shop_images/LINE_ALBUM_20250324_250324_45.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "image_behavior": "none",
+        "image_behavior": "fixed",
         "desktop_content_position": "middle-center",
         "desktop_content_alignment": "center",
         "show_text_box": true,
