@@ -37,10 +37,9 @@
       ],
       "settings": {
         "image": "shopify://shop_images/1_5_d339ad94-a792-48b9-b2bd-28d56d039e92.jpg",
-        "image_2": "shopify://shop_images/1_4.jpg",
         "image_overlay_opacity": 0,
         "image_height": "large",
-        "image_behavior": "fixed",
+        "image_behavior": "ambient",
         "desktop_content_position": "bottom-center",
         "desktop_content_alignment": "center",
         "show_text_box": false,
